@@ -1,0 +1,9 @@
+C:\Users\2707-21\Desktop\DataGridAvto-master\DataGridAvto-master\DataGrid.Framework.AvtoManager\bin\Debug\DataGrid.Framework.AvtoManager.dll
+C:\Users\2707-21\Desktop\DataGridAvto-master\DataGridAvto-master\DataGrid.Framework.AvtoManager\bin\Debug\DataGrid.Framework.AvtoManager.pdb
+C:\Users\2707-21\Desktop\DataGridAvto-master\DataGridAvto-master\DataGrid.Framework.AvtoManager\bin\Debug\DataGrid.Framework.Contracts.dll
+C:\Users\2707-21\Desktop\DataGridAvto-master\DataGridAvto-master\DataGrid.Framework.AvtoManager\bin\Debug\DataGrid.Framework.Contracts.pdb
+C:\Users\2707-21\Desktop\DataGridAvto-master\DataGridAvto-master\DataGrid.Framework.AvtoManager\obj\Debug\DataGridAvto.Framework.AvtoManager.csproj.AssemblyReference.cache
+C:\Users\2707-21\Desktop\DataGridAvto-master\DataGridAvto-master\DataGrid.Framework.AvtoManager\obj\Debug\DataGridAvto.Framework.AvtoManager.csproj.CoreCompileInputs.cache
+C:\Users\2707-21\Desktop\DataGridAvto-master\DataGridAvto-master\DataGrid.Framework.AvtoManager\obj\Debug\DataGridAvto.Framework.AvtoManager.csproj.CopyComplete
+C:\Users\2707-21\Desktop\DataGridAvto-master\DataGridAvto-master\DataGrid.Framework.AvtoManager\obj\Debug\DataGrid.Framework.AvtoManager.dll
+C:\Users\2707-21\Desktop\DataGridAvto-master\DataGridAvto-master\DataGrid.Framework.AvtoManager\obj\Debug\DataGrid.Framework.AvtoManager.pdb

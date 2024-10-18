@@ -1,0 +1,6 @@
+C:\Users\2707-21\Desktop\DataGridAvto-master\DataGridAvto-master\DataGrid.Framework.Contracts\bin\Debug\DataGrid.Framework.Contracts.dll
+C:\Users\2707-21\Desktop\DataGridAvto-master\DataGridAvto-master\DataGrid.Framework.Contracts\bin\Debug\DataGrid.Framework.Contracts.pdb
+C:\Users\2707-21\Desktop\DataGridAvto-master\DataGridAvto-master\DataGrid.Framework.Contracts\obj\Debug\DataGridAvto.Framework.Contracts.csproj.AssemblyReference.cache
+C:\Users\2707-21\Desktop\DataGridAvto-master\DataGridAvto-master\DataGrid.Framework.Contracts\obj\Debug\DataGridAvto.Framework.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\2707-21\Desktop\DataGridAvto-master\DataGridAvto-master\DataGrid.Framework.Contracts\obj\Debug\DataGrid.Framework.Contracts.dll
+C:\Users\2707-21\Desktop\DataGridAvto-master\DataGridAvto-master\DataGrid.Framework.Contracts\obj\Debug\DataGrid.Framework.Contracts.pdb

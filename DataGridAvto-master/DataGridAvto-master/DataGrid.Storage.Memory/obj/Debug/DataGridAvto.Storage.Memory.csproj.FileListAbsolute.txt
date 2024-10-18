@@ -1,0 +1,9 @@
+C:\Users\2707-21\Desktop\DataGridAvto-master\DataGridAvto-master\DataGrid.Storage.Memory\bin\Debug\DataGrid.Storage.Memory.dll
+C:\Users\2707-21\Desktop\DataGridAvto-master\DataGridAvto-master\DataGrid.Storage.Memory\bin\Debug\DataGrid.Storage.Memory.pdb
+C:\Users\2707-21\Desktop\DataGridAvto-master\DataGridAvto-master\DataGrid.Storage.Memory\bin\Debug\DataGrid.Framework.Contracts.dll
+C:\Users\2707-21\Desktop\DataGridAvto-master\DataGridAvto-master\DataGrid.Storage.Memory\bin\Debug\DataGrid.Framework.Contracts.pdb
+C:\Users\2707-21\Desktop\DataGridAvto-master\DataGridAvto-master\DataGrid.Storage.Memory\obj\Debug\DataGridAvto.Storage.Memory.csproj.AssemblyReference.cache
+C:\Users\2707-21\Desktop\DataGridAvto-master\DataGridAvto-master\DataGrid.Storage.Memory\obj\Debug\DataGridAvto.Storage.Memory.csproj.CoreCompileInputs.cache
+C:\Users\2707-21\Desktop\DataGridAvto-master\DataGridAvto-master\DataGrid.Storage.Memory\obj\Debug\DataGridAvto.Storage.Memory.csproj.CopyComplete
+C:\Users\2707-21\Desktop\DataGridAvto-master\DataGridAvto-master\DataGrid.Storage.Memory\obj\Debug\DataGrid.Storage.Memory.dll
+C:\Users\2707-21\Desktop\DataGridAvto-master\DataGridAvto-master\DataGrid.Storage.Memory\obj\Debug\DataGrid.Storage.Memory.pdb
